@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "appName": "FilmyFly",
+      "iconUrl": "https://example.com/filmyfly.png",
+      "subtitle": "Watch latest movies free",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.filmyflymovies"
+    }
+  ]
+}
