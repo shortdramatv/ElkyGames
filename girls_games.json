@@ -1767,29 +1767,6 @@
       "blockedCountries": [],
       "orientation": "landscape",
       "createdAt": "2026-09-22T12:02:16.984Z"
-    },
-    {
-      "id": "ZZZZZ",
-      "title": "TB World",
-      "imageUrl": "https://static.playgama.com/p-img/pg/tb-world/icon/00a2f00a4b134cbdab3f2085b0628cc8?width=448",
-      "coverUrl": "https://static.playgama.com/p-img/pg/tb-world/big_preview/af8743dadae94cfcb657a3580f7fc149?width=448",
-      "gameUrl": "https://yandex.com/video/search?text=popular+videos",
-      "description": "Ready to unlock your creative potential? In this game, you can create one-of-a-kind looks and cozy interiors! Turn your ideas into reality!",
-      "category": "🎈 Kids",
-      "categories": [
-        "🎈 Kids",
-        "💄 Make Up",
-        "👗 Dress Up",
-        "🎨 Decoration",
-        "☕ Cozy",
-        "🕹️ Arcade",
-        "📱 Mobile",
-        "🎮 Top Playgama"
-      ],
-      "videoUrl": "https://static.playgama.com/p-video/ea8f329879a648babda819d59bd4ba23/orig_length_h320.mp4",
-      "blockedCountries": [],
-      "orientation": "landscape",
-      "createdAt": "2026-09-22T12:02:16.984Z"
     }
   ]
 }
