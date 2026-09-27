@@ -1769,8 +1769,6 @@
       "createdAt": "2026-09-22T12:02:16.984Z"
     },
     {
-  "games": [
-    {
       "id": "ZZZZZ",
       "title": "TB World",
       "imageUrl": "https://static.playgama.com/p-img/pg/tb-world/icon/00a2f00a4b134cbdab3f2085b0628cc8?width=448",
@@ -1793,7 +1791,5 @@
       "orientation": "landscape",
       "createdAt": "2026-09-22T12:02:16.984Z"
     }
-  ]
-}
   ]
 }
