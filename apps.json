@@ -1,6 +1,20 @@
 {
   "apps": [
     {
+      "appName": "Gamezop",
+      "iconUrl": "https://play-lh.googleusercontent.com/rejYPlhGlnajAxiaR9LmJCSUem9vE-Tde1cD8paFERGZGGpSAIazlHq-eFsQs_0Y-1qF7odFG9H3okmOZoeXJw=w240-h480-rw",
+      "subtitle": "Download now",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gamezop",
+      "createdAt": "2025-01-10T10:00:00.000Z"
+    },
+    {
+      "appName": "Girls Games Hub",
+      "iconUrl": "https://play-lh.googleusercontent.com/VQ8nuI7ZcOigH0rINbu0fkv8jOCIuxd2AH12Clw90xa3dkHHHZhoaQr-jN9eXd3hhwdbICdi18NY2rX1b-eWK0I=w240-h480-rw",
+      "subtitle": "Download now",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.girlsgame",
+      "createdAt": "2025-01-10T10:00:00.000Z"
+    },
+    {
       "appName": "12 Testers",
       "iconUrl": "https://play-lh.googleusercontent.com/tBJ8z8aevl4ghBk0f-_oRKpbmOPnbmc8om97i-LmezbIyRTE52R9HBWIqPqGb2YXaMIwfMqgKUx0tUsap0se=w240-h480-rw",
       "subtitle": "Download now",
